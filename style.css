@@ -1,0 +1,47 @@
+h2 {
+    color:brown;
+    background-color: aqua;
+    text-align: center;
+    text-decoration: underline;
+}
+h1 {
+    color:blue;
+    text-align:center;
+    background-color:bisque;
+    font-style: italic;
+    font-size: 30px;
+    
+}
+p {
+    color:black
+}
+.chapter {
+    color:blueviolet;
+    text-decoration:overline
+}
+
+#first {
+    color:rgba(56, 165, 42, 0.685)
+}
+#second {
+    color:rgb(0, 255, 64)
+}
+#I {
+    text-align: center;
+    
+}
+.text-bold {
+    font-weight: bold;
+}
+.text-decoration {
+    text-decoration: underline;
+}
+.font-style{
+    font-style: italic;
+}
+.text-d {
+    text-decoration: line-through;
+}
+.background-color{
+    background-color:yellow;
+}
